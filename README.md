@@ -1,9 +1,16 @@
-# awesome-bioinformatics
+## awesome-bioinformatics
 
 This is a collection of awesome bioinformatics resources.
 
 ## Table of Contents
+<!-- TOC -->
 
+- [awesome-bioinformatics](#awesome-bioinformatics)
+- [Table of Contents](#table-of-contents)
+- [RNA-Seq](#rna-seq)
+    - [ChIP-Seq](#chip-seq)
+
+<!-- /TOC -->
 
 ## RNA-Seq
 
@@ -33,34 +40,8 @@ This is a collection of awesome bioinformatics resources.
 - [UCSC Genome Browser Wiki](https://genome.ucsc.edu/wiki/Main_Page) - A web-based platform for exploring genomic data
 - [ENCODE](https://www.encodeproject.org/) - A web-based platform for exploring genomic data
 - [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) - A tool for sequence similarity searching
-- [BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A tool for sequence similarity searching
-- [DIAMOND](https://github.com/bbuchfink/diamond) - A tool for sequence similarity searching
-- [BLAST databases](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases
-- [BLAST databases for NCBI](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for NCBI
-- [BLAST databases for UniProt](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for UniProt
-- [BLAST databases for RefSeq](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for RefSeq
-- [BLAST databases for GenBank](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for GenBank
-- [BLAST databases for SwissProt](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for SwissProt
-- [BLAST databases for PDB](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for PDB
-- [BLAST databases for PubMed](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for PubMed
-- [BLAST databases for PubMed Central](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for PubMed Central
-- [BLAST databases for PubMed Abstracts](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for PubMed Abstracts
-- [BLAST databases for PubMed Central Abstracts](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for PubMed Central Abstracts
-- [BLAST databases for Genomes](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes
-- [BLAST databases for Genomes of the Same Species](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes of the Same Species
-- [BLAST databases for Genomes of the Same Genus](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes of the Same Genus
-- [BLAST databases for Genomes of the Same Family](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes of the Same Family
-- [BLAST databases for Genomes of the Same Order](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes of the Same Order
-- [BLAST databases for Genomes of the Same Class](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes of the Same Class
-- [BLAST databases for Genomes of the Same Kingdom](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes of the Same Kingdom
-- [BLAST databases for Genomes of the Same Domain](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes of the Same Domain
-- [BLAST databases for Genomes of the Same Phylum](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes of the Same Phylum
-- [BLAST databases for Genomes of the Same Subphylum](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A collection of pre-built BLAST databases for Genomes of the Same Subphylum 
+- [BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) - A tool for sequence similarity
 
-## ChIP-Seq
+### ChIP-Seq
 
-- [MACS](https://github.com/taoliu/MACS) - Model-based Analysis of ChIP-Seq (MACS)
-- [ChIP-Seq analysis pipeline](https://github.com/ENCODE-DCC/chip-seq-pipeline2) - A pipeline for analyzing ChIP-Seq data
-- [ChIP-Seq analysis pipeline for ENCODE data](https://github.com/ENCODE-DCC/chip-seq-pipeline2) - A pipeline for analyzing ChIP-Seq data for ENCODE data
-- [ChIP-Seq analysis pipeline for ChIP-Seq data](https://github.com/ENCODE-DCC/chip-seq-pipeline2) - A pipeline for analyzing ChIP-Seq data for ChIP-Seq data
-
+- [ChIP-Seq analysis pipeline](https://github.com/nf-core/chipseq) - A Nextflow-based ChIP-Seq analysis pipeline
